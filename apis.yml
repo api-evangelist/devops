@@ -1,17 +1,25 @@
+aid: devops
 name: DevOps
-description: DevOps is a cultural and technical movement that combines software development
+description: >-
+  DevOps is a cultural and technical movement that combines software development
   and IT operations to shorten the development lifecycle and deliver high-quality
   software continuously. It emphasizes automation, collaboration, monitoring, and
   infrastructure as code to bridge the gap between building software and running it
   in production.
-url: https://en.wikipedia.org/wiki/DevOps
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- DevOps
-- Automation
-- CI/CD
-- Continuous Integration
-- Continuous Deployment
-created: '2025'
-modified: '2025'
+  - DevOps
+  - Automation
+  - CI/CD
+  - Continuous Integration
+  - Continuous Deployment
+url: https://en.wikipedia.org/wiki/DevOps
+created: '2025-01-01'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
 common: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
