@@ -9,11 +9,11 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - DevOps
   - Automation
   - CI/CD
-  - Continuous Integration
   - Continuous Deployment
+  - Continuous Integration
+  - DevOps
 url: https://en.wikipedia.org/wiki/DevOps
 created: '2025-01-01'
 modified: '2026-03-16'
